@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+main{
+	margin-left: 30%;
+	margin-right: 30%;
+	overflow: hidden;
+}
+.box{
+	float: left;
+	width: 30%;
+	padding-bottom: 30%;
+	margin-left: 2.5%;
+	margin-top: 2.5%;
+	border-radius: 10px;
+	background-color: #fea500;
+}
+button{
+	width: 90%;
+	margin:2% 5%;
+	border-radius: 5px;
+	line-height: 30px
+
+}
+button:hover {
+    color: #ffffff;
+    background: #ffa500;
+}
